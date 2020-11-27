@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Leonor Camarena, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Rutgers, The State University of New Jersey - Newark
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research agenda addresses both established and emerging issues related to public management, nonprofit management, and local government.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public Management
+- Nonprofit Management
+- Diversity in Public Organizations
+- Local Government
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Public Administration and Policy
+    institution: Arizona State University
+    year: 2020
+  - course: Master of Public Administration
+    institution: Arizona State University
+    year: 2015
+  - course: Public Service and Public Policy
+    institution: Arizona State University
+    year: 2014
+  - course: Urban and Metropolitan Studies
+    institution: Arizona State University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +47,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/LeonorCamarena
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ldgyYjEAAAAJ&hl=en#
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/CamarenaL
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research agenda addresses both established and emerging issues related to public management, nonprofit management, and local government. My research focuses broadly on representation, leadership, gender, and diversity in public and nonprofit organizations. I've published in some of the following journals: Review of Public Personnel Administration, Local Government Studies, and American Journal of Engineering Education.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to entering academia, I worked as a Policy Analyst at Chicanos Por La Causa, Inc., a 501(c)3 community development corporation in Arizona.
